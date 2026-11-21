@@ -7,7 +7,7 @@ ExifMap 的英文支持页和隐私政策，托管于 GitHub Pages。
 - 隐私政策：`privacy.html`
 - 样式：`styles.css`
 
-开发者公开署名为 Crisforlove，支持邮箱为 aplstar2001@163.com。
+开发者公开署名为 Crisforlove，支持邮箱为 Alpstar@proton.me。
 
 网站仅包含静态 HTML 与 CSS，无第三方字体、脚本、分析、广告或表单。GitHub 的托管处理已在隐私政策中说明。
 
